@@ -12,7 +12,7 @@
   "WEI_COST": 30000000000000000,
   "DISPLAY_COST": 0.03,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "OpenSea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/melancholymonstersclub",
   "SHOW_BACKGROUND": true
 }
